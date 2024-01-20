@@ -212,6 +212,7 @@ to {
 
 video {
   width: 1200px;
+  border-radius: 15px;
 }
 
 .video {
