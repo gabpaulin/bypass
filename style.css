@@ -169,7 +169,7 @@ footer {
 }
 
 /* media queries */
-@media (min-width: 700000px) {
+@media (min-width: auto) {
   :root {
     --bg-url: url(./assets/dark-blur-blurred-gradient.jpg);
   }
