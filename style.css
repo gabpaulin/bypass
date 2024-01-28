@@ -62,7 +62,7 @@ body * {
   position: relative;
   width: 64px;
   height: 24px;
-  
+
   margin: 4px auto;
 }
 
@@ -202,7 +202,7 @@ to {
 
 .par {
   text-align: center;
-  
+
   border: 1px solid #ccc;
   border-radius: 5%;
   font-size: small;
